@@ -5,11 +5,9 @@
 
 ### <div align="center">Hi, I'm Dave, a fullstack developer 👨‍💻 and an aspiring Offensive Secuirty Engineer🚀</div>  
   
-
-- 🔭 I just finished working on PortShare, a file-sharing app
   
 
-- 🌱 I’m currently learning Django rest framework, Next.js, networking, pen-testing  
+- 🌱 I’m currently improving my Networking and Pentesting skills   
   
 
 - ❓ Ask me about anything related to Django, Linux, and related technologies  
